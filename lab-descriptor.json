@@ -1,0 +1,80 @@
+{
+    "broadArea": {
+        "name": "Electrical Engineering",
+        "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
+    },
+    "lab": "Virtual Electrical Machines Lab",
+    "lab_display_name": "Electrical Machines Lab",
+    "deployLab": true,
+    "phase": 2,
+    "collegeName": "coep",
+    "baseUrl": "em-coep.vlabs.ac.in",
+    "introduction": "Electrical machines viz. motors and generators are important elements of industrial revolution. The conversion of energy has played a major role in transforming many industrial applications and making it efficient. Many aspects like design, selection, connections, and maintenance related issues need to be studied by every engineer who is interested in working in this sector. The simulators developed under this laboratory are worth practicing as the practice of electrical connection thereby performing these experiments becomes easy in actual life. These experiments will help students in calculating various electrical parameters required for sizing of motor and generator.",
+    "experiments": [
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    },
+    {
+      "name": "",
+      "short-name": "",
+      "repo": "",
+      "tag": "v1.0.0",
+      "deploy": true
+    }
+    ],
+    "targetAudience": {
+        "UG": ["Undergraduate students of Instrumentation and Control Engineering, Mechatronics Engineering, Electrical Engineering, Mechanical Engineering branches."],
+        "PG": ["Post-graduate students of Process Instrumentation, Mechatronics, Production Engineering."]
+    },
+    "objective": "Identify the voltage, current, and load requirements for three phase AC and DC motors</br></br>Identify the voltage, current, and load requirements for three phase AC and DC generators</br></br>Evaluate effect of parameter settings on the performance of various types motor and generators</br></br>Design and implement various safety interlocks for motors and generators",
+    "courseAlignment": {
+        "description": "The syllabi of this lab aligns to the following universities in India.",
+        "universities": ["Pune University","Indian Institute of Technology Bombay","Indian Institute of Technology Delhi","BMS College of Engineering, Bangalore","Institute having Instrumentation and control department","Institute having Electrical Engineering department"]
+    }
+}
