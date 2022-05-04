@@ -12,58 +12,58 @@
     "introduction": "Electrical machines viz. motors and generators are important elements of industrial revolution. The conversion of energy has played a major role in transforming many industrial applications and making it efficient. Many aspects like design, selection, connections, and maintenance related issues need to be studied by every engineer who is interested in working in this sector. The simulators developed under this laboratory are worth practicing as the practice of electrical connection thereby performing these experiments becomes easy in actual life. These experiments will help students in calculating various electrical parameters required for sizing of motor and generator.",
     "experiments": [
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Load Test On Separately Excited DC Motor",
+      "short-name": "load-test-dc-motor",
+      "repo": "https://github.com/virtual-labs/exp-load-test-dc-motor-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Speed Control of Separately Excited DC Motor",
+      "short-name": "speed-control-dc-motor",
+      "repo": "https://github.com/virtual-labs/exp-speed-control-dc-motor-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "No Load Test on Three Phase Induction Motor",
+      "short-name": "no-load-test-induction-motor",
+      "repo": "https://github.com/virtual-labs/exp-no-load-test-induction-motor-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Blocked Rotor Test on Three Phase Induction Motor",
+      "short-name": "blocked-rotor-test-induction-motor",
+      "repo": "https://github.com/virtual-labs/exp-blocked-rotor-test-induction-motor-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Open Circuit Test on Three Phase Alternator",
+      "short-name": "open-circuit-phase-alternator",
+      "repo": "https://github.com/virtual-labs/exp-open-circuit-phase-alternator-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Short Circuit Test on Three Phase Alternator",
+      "short-name": "short-circuit-phase-alternator",
+      "repo": "https://github.com/virtual-labs/exp-short-circuit-phase-alternator-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "Load Test on Three Phase Alternator",
+      "short-name": "load-test-phase-alternator",
+      "repo": "https://github.com/virtual-labs/exp-load-test-phase-alternator-coep",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "",
-      "short-name": "",
-      "repo": "",
+      "name": "V and Inverted V curves of Synchronous Motor",
+      "short-name": "synchronous-motor",
+      "repo": "https://github.com/virtual-labs/exp-synchronous-motor-coep",
       "tag": "v1.0.0",
       "deploy": true
     }
