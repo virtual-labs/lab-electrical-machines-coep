@@ -8,7 +8,7 @@
   "lab_display_name": "Electrical Machines Lab",
   "deployLab": true,
   "phase": 2,
-  "collegeName": "coep",
+  "collegeName": "COEP",
   "baseUrl": "em-coep.vlabs.ac.in",
   "introduction": "Electrical machines viz. motors and generators are important elements of industrial revolution. The conversion of energy has played a major role in transforming many industrial applications and making it efficient. Many aspects like design, selection, connections, and maintenance related issues need to be studied by every engineer who is interested in working in this sector. The simulators developed under this laboratory are worth practicing as the practice of electrical connection thereby performing these experiments becomes easy in actual life. These experiments will help students in calculating various electrical parameters required for sizing of motor and generator.",
   "experiments": [
