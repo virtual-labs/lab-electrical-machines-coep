@@ -1,7 +1,8 @@
 {
   "broadArea": {
     "name": "Electrical Engineering",
-    "link": "https://www.vlab.co.in/broad-area-electrical-engineering"
+    "link": "https://www.vlab.co.in/broad-area-electrical-engineering",
+    "code":"EE"
   },
   "lab": "Virtual Electrical Machines Lab",
   "lab_display_name": "Electrical Machines Lab",
@@ -87,8 +88,5 @@
       "Institute having Instrumentation and control department",
       "Institute having Electrical Engineering department"
     ]
-  },
-  "exp_name": "V and Inverted V curves of Synchronous Motor",
-  "exp_short_name": "synchronous-motor",
-  "version": "v0.1.0"
+  }
 }
